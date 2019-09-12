@@ -37,7 +37,7 @@ and parts of the environment being eaten away as each iteration is passed.
 
 ### Simple breakdown of code
 
-1. We import all modules we need
+1. We import all modules we need: random, matplotlib, agentframework, csv
 2. Make a list for the environment that contains data on what our environment looks like
 3. Create another class that contains functions:
    Our sheep being given random coordinates
