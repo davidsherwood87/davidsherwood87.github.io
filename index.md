@@ -52,7 +52,8 @@ and parts of the environment being eaten away as each iteration is passed.
 
 ### Where to find the code
 
-The code is available from the GitHub website by clicking [HERE](https://davidsherwood87.github.io)
+The code is available from the GitHub website by clicking [HERE](https://github.com/davidsherwood87/davidsherwood87.github.io)
+and finding the model5.py and agentframework.py files.
 
 
 
