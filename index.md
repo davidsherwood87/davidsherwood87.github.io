@@ -17,7 +17,7 @@ and am in my final module of year 2. My previous modules this year have included
 2. Planning
 3. Population and demographic analysis
 
-### Why Programming?
+### <span style="text-decoration: underline">Why Programming? </span>
 
 As probably noted by the amount of emails i have sent my tutor, my experience in Python has
 been so far very limited, with some experience coming from teaching Computer Science whilst
