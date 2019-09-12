@@ -1,8 +1,10 @@
 <html>
 <head>
 <title> Core Programming </title>
-<h2> About The Author <h2>
 </head>
 <body>
+<h1>About The Author</h1>
 <p>
+
+</P>
 
