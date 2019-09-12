@@ -1,6 +1,6 @@
 # Core Programming by David Sherwood
 
-## <span style="text-decoration: underline" About The Author </span>
+## <span style="text-decoration: underline"> About The Author </span>
 
 When i left college in 2006, i did not, at the time, want to go to university. Instead i chose
 to continue working in retail, where having spent 5 years in the role with no chance of promotion,
@@ -26,7 +26,7 @@ a cover teacher.
 Wanting to find a new career, i have noticed that a lot of jobs in the sector want Python 
 experience, and so i chose this course to gain at least some experience in programming.
 
-## <span style="text-decoration: underline" About the code </span>
+## <span style="text-decoration: underline"> About the code </span>
 
 To explain what the code itself does, it would be easier to use the same analogy the course 
 materials do, and that is with the use of sheep. 
