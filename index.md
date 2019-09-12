@@ -1,10 +1,7 @@
-<html>
-<head>
-<title> Core Programming </title>
-</head>
-<body>
+---
+title: Core Programming
+---
 <h1>About The Author</h1>
-<p>
 
-</P>
+
 
